@@ -1,0 +1,26 @@
+h1{
+	text-align: center;
+    color: rebeccapurple;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+ 
+.box{
+	background:plum;
+	height: 200px;
+	width: 300px;
+	padding: 10px;
+    margin: 70px;
+}
+ 
+.box-dua{
+	background: palevioletred;
+	height: 100px;
+	width: 600px;
+	padding-left: 50px;
+    margin-left: 70px;
+}
+
+
+
+
